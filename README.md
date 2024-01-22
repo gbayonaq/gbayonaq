@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges">
-  <a href="(https://www.linkedin.com/in/guillermo-bayona-querevalu-5b94b966/)">
+  <a href="https://www.linkedin.com/in/guillermo-bayona-querevalu-5b94b966/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="[(https://github.com/https://github.com/gbayonaq)]">
