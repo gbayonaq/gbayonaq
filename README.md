@@ -34,9 +34,9 @@
   <h2>Skills</h2>
   <ul>
     <li>Data focussed business intelligence</li>
-    <li>[your second skill]</li>
-    <li>[your third skill]</li>
-    <li>[your fourth skill]</li>
+    <li>Eye for Design</li>
+    <li>Full Stack Development</li>
+    <li>Salesforce Administration</li>
   </ul>
 </div>
 
