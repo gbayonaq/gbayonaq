@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hello there, I'm Guillermo Bayona Querevalu</h1>
-  <img src="[insert an image of yourself or something you like]" width="200" />
+  <img src="https://avatars.githubusercontent.com/u/94433239?v=4" width="200" />
   <p>[briefly describe yourself and your interests]</p>
 </div>
 
