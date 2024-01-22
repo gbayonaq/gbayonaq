@@ -61,12 +61,9 @@
   <div>         
 
 <div id="Contact Me">
-  <h2>Skills</h2>
+  <h2>Contact Me</h2>
   <ul>
     <li>guillermo-bayona@hotmail.com</li>
-    <li>Eye for Design</li>
-    <li>Full Stack Development</li>
-    <li>Salesforce Administration</li>
   </ul>
 </div>
 
