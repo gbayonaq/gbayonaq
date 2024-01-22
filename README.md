@@ -60,4 +60,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;  
   <div>         
 
+<div id="Contact Me">
+  <h2>Skills</h2>
+  <ul>
+    <li>guillermo-bayona@hotmail.com</li>
+    <li>Eye for Design</li>
+    <li>Full Stack Development</li>
+    <li>Salesforce Administration</li>
+  </ul>
+</div>
 
