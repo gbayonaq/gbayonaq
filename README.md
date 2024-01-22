@@ -4,6 +4,15 @@
   <p>[briefly describe yourself and your interests]</p>
 </div>
 
+<div id="badges">
+  <a href="[[(https://www.linkedin.com/in/guillermo-bayona-querevalu-5b94b966/)]]">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[(https://github.com/https://github.com/gbayonaq)]">
+    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="GitHub Badge"/>
+  </a>
+</div>
+
 
 ### Hi there 👋, my name is Guillermo Bayona Querevalu
 #### I am Full Stack developer
