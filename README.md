@@ -33,7 +33,7 @@
 <div id="skills">
   <h2>Skills</h2>
   <ul>
-    <li>[Data focussed business intelligence]</li>
+    <li>Data focussed business intelligence</li>
     <li>[your second skill]</li>
     <li>[your third skill]</li>
     <li>[your fourth skill]</li>
