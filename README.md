@@ -15,7 +15,7 @@
 <div id="bio">
   <h2>About Me</h2>
   <ul>
-    <li>I'm a Industrial Engineer and Full Stack Developer and my interest is on development tecnologies</li>
+    <li>I'm a Industrial Engineer and have studied the Bootcamp de Henry Full Stack Developer and my interest is on development tecnologies</li>
     <li>I'm passionate about service oriented to client</li>
     <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>    <li>I'm currently seeking new opportunities to apply my knowledge and expertise in the Development space.</li>
     <li>I enjoy documenting my projects on Medium to gain a deeper understanding of my work.</li>
