@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <h1>Hello there, I'm Guillermo Bayona Querevalu</h1>
+  <img src="[insert an image of yourself or something you like]" width="200" />
+  <p>[briefly describe yourself and your interests]</p>
+</div>
+
+
 ### Hi there 👋, my name is Guillermo Bayona Querevalu
 #### I am Full Stack developer
 ![I am Full Stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
